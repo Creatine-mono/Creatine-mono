@@ -32,6 +32,18 @@
 </div>
 <br>
 
+<h3 align="center">💼 Career 💼</h3>
+<div align="center">
+  
+| 기간 | 내용 | 비고 |
+|:---:|:---:|:---:|
+| 2025.07 ~ 2025.12 | KISIA AI 보안기술개발 | 🔐 |
+| 2025.11.03 ~ 2025.11.08 | 일본 해외연수 | 🇯🇵 |
+| 2025.12.22 ~ 2026.01.09 | 푸단대 겨울캠프 FIWS | 🇨🇳 |
+
+</div>
+<br>
+
 <h3 align="center">🏆 Awards 🏆</h3>
 <div align="center">
   
@@ -61,6 +73,10 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white" />&nbsp
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=D97757" />&nbsp
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />&nbsp
 </div>
 <br>
 <div align="center">
