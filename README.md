@@ -53,6 +53,8 @@
 
 </div>
 
+<img src="./KakaoTalk_20250911_03421877_02.jpg" width="600"/>
+
 <br>
 
 <h3 align="center">💻 Projects 💻</h3>
