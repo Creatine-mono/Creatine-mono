@@ -106,7 +106,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creatine-mono&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br/><br/>
-[![productive-box](https://gist.github.com/YourUsername/fc2f02ca58da65ecd614a9117053db91/raw/productive-time.svg)](https://gist.github.com/YourUsername/fc2f02ca58da65ecd614a9117053db91)
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
@@ -120,7 +119,7 @@
     <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=000"/>&nbsp
   </a>
 </div>
-[![productive-box](https://gist.github.com/Creatine-mono/fc2f02ca58da65ecd614a9117053db91/raw/productive-time.svg)](https://gist.github.com/Creatine-mono/fc2f02ca58da65ecd614a9117053db91)
+
 <!-- Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
