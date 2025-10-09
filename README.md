@@ -56,12 +56,6 @@
 | 공급망 사이버 보안 위험 평가 ai 에이전트 | 총괄 팀장 | 2025.09 ~ 진행중 |
 | 딥러닝을 활용한 사진화질 개선 서비스 | 개발팀원 | 2025.09 ~ 진행중 |
 
-### ✅ 완료한 프로젝트
-  
-| 프로젝트명 | 역할 | 기간 | 링크 |
-|:---:|:---:|:---:|:---:|
-| 프로젝트명 입력 | 역할 | 기간 | [GitHub](링크) |
-
 </div>
 <br>
 
@@ -70,9 +64,6 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 <br>
 <div align="center">
