@@ -50,7 +50,7 @@
 <h3 align="center">🏆 Awards 🏆</h3>
 <div align="center">
 
-<img src="./img/상장이미지.jpg" width="200"/>
+<img src="./img/상장이미지.jpg" width="200"style="transform: rotate(90deg);"/>
 
 <br/><br/>
   
