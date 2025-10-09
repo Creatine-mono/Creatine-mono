@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Park%20Sung%20Ho&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20Security%20/%20Deep%20Learning%20Developer&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Creatine-mono&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20Security%20/%20Deep%20Learning%20Developer&descAlignY=55&descSize=20" />
 </div>
 
 <!--내용 부분-->
