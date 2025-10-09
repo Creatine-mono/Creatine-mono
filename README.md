@@ -52,6 +52,7 @@
 | 2025.08.21 | 제3회 KISIA 정보보호 개발자 해커톤 | 우수상 | 과기부 |
 
 </div>
+
 <br>
 
 <h3 align="center">💻 Projects 💻</h3>
