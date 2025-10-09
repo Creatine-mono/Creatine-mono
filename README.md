@@ -1,6 +1,9 @@
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Creatine-mono&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20Security%20/%20Deep%20Learning%20Developer&descAlignY=55&descSize=20" />
+  
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;AI+%7C+Security+%7C+Deep+Learning;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </div>
 
 <!--내용 부분-->
@@ -46,16 +49,16 @@
 
 <h3 align="center">🏆 Awards 🏆</h3>
 <div align="center">
+
+<img src="./img/상장이미지.jpg" width="600"/>
+
+<br/><br/>
   
 | 날짜 | 대회/행사 | 수상 내역 | 주최 |
 |:---:|:---:|:---:|:---:|
 | 2025.08.21 | 제3회 KISIA 정보보호 개발자 해커톤 | 우수상 | 과기부 |
 
 </div>
-
-<div align="center">
-<img src="./img/상장이미지.jpg" width="600"/>
-
 <br>
 
 <h3 align="center">💻 Projects 💻</h3>
@@ -91,10 +94,24 @@
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <div align="center">
+
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Creatine-mono&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creatine-mono&show_icons=true&theme=tokyonight&hide_border=true)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Creatine-mono&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Creatine-mono&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Creatine-mono&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+
+<!-- 3D Contribution Calendar -->
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=Creatine-mono&theme=tokyonight" alt="3D Contribution Calendar"/>
 
 </div>
 <br>
@@ -112,3 +129,16 @@
   </a>
 </div>
 <br>
+
+<div align="center">
+  
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCreatine-mono&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+</div>
+
+<br/>
+
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+</div>
