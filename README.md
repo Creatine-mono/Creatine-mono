@@ -1,6 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <!-- 👆 본인 이미지로 변경하려면: GitHub Issues에 이미지 드래그해서 업로드 후 링크 복사해서 붙여넣기 -->
 </div>
 
 <!--내용 부분-->
@@ -10,6 +11,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+</div>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
@@ -38,7 +40,6 @@
 <br>
 
 <h3 align="center">💻 Projects 💻</h3>
-
 <div align="center">
   
 ### 🚀 진행 중인 프로젝트
@@ -50,6 +51,10 @@
 | 딥러닝을 활용한 사진화질 개선 서비스 | 개발팀원 | 2025.09 ~ 진행중 |
 
 ### ✅ 완료한 프로젝트
+  
+| 프로젝트명 | 역할 | 기간 | 링크 |
+|:---:|:---:|:---:|:---:|
+| 프로젝트명 입력 | 역할 | 기간 | [GitHub](링크) |
 
 </div>
 <br>
@@ -82,11 +87,14 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  <a href="https://idea4322.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
   <a href="mailto:psh243360@gmail.com">
     <img src="https://img.shields.io/badge/psh243360@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+  <a href="https://huggingface.co/psh3333">
+    <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=000"/>&nbsp
   </a>
 </div>
 <br>
