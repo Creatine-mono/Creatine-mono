@@ -53,7 +53,8 @@
 
 </div>
 
-<img src="./상장이미지.jpg" width="600"/>
+<div align="center">
+<img src="./img/상장이미지.jpg" width="600"/>
 
 <br>
 
