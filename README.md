@@ -3,15 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Creatine-mono&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20Security%20/%20Deep%20Learning%20Developer&descAlignY=55&descSize=20" />
 </div>
 
-<!--Body-->
-
-## 👀 About Me
-#### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-#### :fire: I aim to become a Cloud AI Engineer.<br/>
-#### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
-<br/>
-<br/>
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
