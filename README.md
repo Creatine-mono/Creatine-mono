@@ -1,7 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-  <!-- 👆 본인 이미지로 변경하려면: GitHub Issues에 이미지 드래그해서 업로드 후 링크 복사해서 붙여넣기 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Park%20Sung%20Ho&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20Security%20/%20Deep%20Learning%20Developer&descAlignY=55&descSize=20" />
 </div>
 
 <!--내용 부분-->
