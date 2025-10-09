@@ -53,7 +53,7 @@
 
 </div>
 
-<img src="./KakaoTalk_20250911_03421877_02.jpg" width="600"/>
+<img src="./상장이미지.jpg" width="600"/>
 
 <br>
 
