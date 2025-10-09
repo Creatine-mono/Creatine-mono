@@ -50,8 +50,7 @@
 <h3 align="center">🏆 Awards 🏆</h3>
 <div align="center">
 
-<img src="./img/상장이미지.jpg" width="200"style="transform: rotate(90deg);"/>
-
+<img src="./img/상장이미지.jpg" width="200" style="transform: rotate(90deg);"/>
 <br/><br/>
   
 | 날짜 | 대회/행사 | 수상 내역 | 주최 |
