@@ -98,20 +98,22 @@
 <!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Creatine-mono&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<br/>
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creatine-mono&show_icons=true&theme=tokyonight&hide_border=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Creatine-mono&layout=compact&theme=tokyonight&hide_border=true)
+<br/><br/>
+
+<!-- GitHub Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=Creatine-mono&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creatine-mono&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<br/><br/>
 
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=Creatine-mono&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
+<br/><br/>
+
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Creatine-mono&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-
-<!-- 3D Contribution Calendar -->
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=Creatine-mono&theme=tokyonight" alt="3D Contribution Calendar"/>
 
 </div>
 <br>
