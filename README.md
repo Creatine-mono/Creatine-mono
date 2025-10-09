@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Creatine-mono&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20Security%20/%20Deep%20Learning%20Developer&descAlignY=55&descSize=20" />
   
   <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;AI+%7C+Security+%7C+Deep+Learning;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;AI+%7C+Security+%7C+Deep+Learning;" alt="Typing SVG" /></a>
 </div>
 
 <!--내용 부분-->
@@ -110,13 +110,6 @@
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=Creatine-mono&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Creatine-mono&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-
-</div>
-<br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
