@@ -78,6 +78,18 @@
 </div>
 <br>
 
+<h3 align="center">📜 Certifications 📜</h3>
+<div align="center">
+  
+| 취득일 | 자격증명 | 등급/레벨 | 발급기관 |
+|:---:|:---:|:---:|:---:|
+| - | AICE | Basic | KT |
+| - | 정보보호능력검정 | 2급 | TOLIS |
+| - | AIDE 자격검정시험 | 2급 | - |
+
+</div>
+<br>
+
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
