@@ -86,6 +86,7 @@
 | AICE | Basic | KT |
 |정보보호능력검정 | 2급 | TOLIS |
 | AIDE 자격검정시험 | 2급 | 한국인공지능자격센터 |
+| Azure AI-900 | - | Microsoft |
 
 </div>
 <br>
