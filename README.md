@@ -123,6 +123,8 @@
 
 <br/><br/>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=art3456)](https://solved.ac/art3456/)
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:psh243360@gmail.com">
