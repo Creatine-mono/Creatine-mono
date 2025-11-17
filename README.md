@@ -73,7 +73,7 @@
   
 | 프로젝트명 | 역할 | 기간 |
 |:---:|:---:|:---:|
-| [AI SSL DLP](https://github.com/AITLS-DLP) (kisia ai보안교육과정 개인정보반) | Tech Lead | 2025.07.21 ~ 2025.11.07 |
+| [AI SSL DLP]([https://github.com/Creatine-mono/kisia-project]) (kisia ai보안교육과정 개인정보반) | Tech Lead | 2025.07.21 ~ 2025.11.07 |
 | 공급망 사이버 보안 위험 평가 ai 에이전트 | 총괄 팀장 | 2025.09 ~ 진행중 |
 | 딥러닝을 활용한 사진화질 개선 서비스 | 개발팀원 | 2025.09 ~ 진행중 |
 
