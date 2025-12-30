@@ -41,10 +41,17 @@
 ### 🔐 AI SSL DLP System
 한국어 개인정보 탐지 및 보호 시스템
 
-**Tech Stack**  
-![KLUE](https://img.shields.io/badge/KLUE_RoBERTa-FF6B6B?style=flat-square)
+**Models**  
+![KLUE](https://img.shields.io/badge/KLUE_RoBERTa-FF6B6B?style=flat-square&logo=huggingface&logoColor=white)
 ![EXAONE](https://img.shields.io/badge/EXAONE-4CAF50?style=flat-square)
+
+**Result**  
 ![F1](https://img.shields.io/badge/F1_Score-93.30%25-gold?style=flat-square)
+
+**Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
 
 </td>
 <td width="50%">
@@ -52,9 +59,12 @@
 ### 🛡️ Supply Chain Risk AI Agent
 공급망 사이버 보안 위험 평가
 
+**Framework**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+
 **Tech Stack**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </td>
 </tr>
@@ -116,7 +126,7 @@
 
 <div align="center">
 
-<!-- GitHub Stats - 여러 대체 인스턴스 사용 -->
+<!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Creatine-mono&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creatine-mono&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
@@ -157,6 +167,11 @@
 
 *"Building secure AI systems through Python-powered innovation"*
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
