@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 헤더 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PARKSUNGHO%20Park&fontSize=70&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SUNGHO%20PARK&fontSize=70&fontColor=fff&animation=fadeIn" />
 
 <br/>
 
