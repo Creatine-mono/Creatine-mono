@@ -1,146 +1,231 @@
-<!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Creatine-mono&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20/%20Security%20/%20Deep%20Learning%20Developer&descAlignY=55&descSize=20" />
-  
-  <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;AI+%7C+Security+%7C+Deep+Learning;" alt="Typing SVG" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18&height=300&section=header&text=CREATINE-MONO&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Korea%20University%20|%20AI%20Security%20Developer&descSize=20&descAlignY=65" />
+
+<br/>
+<br/>
+
+<!-- 메인 타이핑 애니메이션 -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=1000&height=80&lines=93.30%25+F1+Score+in+Korean+PII+Detection;Excellence+Award+Winner+%F0%9F%8F%86+KISIA+Hackathon+2025;Tech+Lead+%40+KISIA+AI+Security+Project" alt="Typing SVG" />
+</a>
+
 </div>
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<br/>
+
+<!-- 성과 하이라이트 -->
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=000" />&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbs
+
+## 🎯 2025 HIGHLIGHTS
+
 </div>
 
-<h3 align="center">📚 Studying 📚</h3>
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://github.com/user-attachments/assets/e8e6ab2f-3597-4f88-b785-d4f847b53b88" width="80"/>
+<br/>
+<sub><b>최우수상</b></sub>
+<br/>
+<sub>KISIA AI보안</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/user-attachments/assets/e8e6ab2f-3597-4f88-b785-d4f847b53b88" width="80"/>
+<br/>
+<sub><b>우수상</b></sub>
+<br/>
+<sub>정보보호 해커톤</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/user-attachments/assets/9563424e-c7f1-44f7-a723-d1a0acf7bf69" width="80"/>
+<br/>
+<sub><b>93.30% F1</b></sub>
+<br/>
+<sub>Korean PII Detection</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/user-attachments/assets/e8e6ab2f-3597-4f88-b785-d4f847b53b88" width="80"/>
+<br/>
+<sub><b>Tech Lead</b></sub>
+<br/>
+<sub>KISIA Project</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- 핵심 프로젝트 -->
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white" />&nbsp
-</div>
-<br>
 
-<h3 align="center">💼 Career 💼</h3>
-<div align="center">
-  
-| 기간 | 내용 | 비고 |
-|:---:|:---:|:---:|
-| 2025.7.04 | NAVER CLOUD PLATFORM AI Hands-on Lab | 🤖 |
-| 2025.7.7 ~ 2026.7.10 |  제7기 미국알기 아카데미  | 🇺🇸 |
-| 2025.7 ~ 2026.12 | 2025년 개인정보 불법유통 대응 대학생 모니터링단 | 🔐 |
-| 2025.07 ~ 2025.12 | KISIA AI 보안기술개발 | 🔐 |
-| 2025.9.20 | 2025년 KISA 웹테크 밋업데이 : Flutter로 모바일 앱 개발 | 💻 |
-| 2025.11.03 ~ 2025.11.08 | 일본 해외연수 | 🇯🇵 |
-| 2025.11.21 | AI허브 안심존 데이터분석 | 🤖 |
-| 2025.11.25 |  대학생을 위한 오픈소스SW 라이선스 | 🔐 |
-| 2025.12.22 ~ 2025.12.23 |  실전형 사이버훈련장(스마트시티 보안분야) 훈련과정 | 🔐 |
-
-</div>
-<br>
-
-<h3 align="center">🏆 Awards 🏆</h3>
-<div align="center">
-
-<img src="./img/상장이미지.jpg" width="200"/>
-<br/><br/>
-  
-| 날짜 | 대회/행사 | 수상 내역 | 주최 |
-|:---:|:---:|:---:|:---:|
-| 2025.08.21 | 제3회 KISIA 정보보호 개발자 해커톤 | 우수상(한국정보보호산업협회장상) | 과기부 |
-| 2025.12.19 | KISIA AI보안 개인정보반 | 최우수상(한국정보보호산업협회장상) | 과기부 |
-
-</div>
-<br>
-
-<h3 align="center">💻 Projects 💻</h3>
-<div align="center">
-  
-### 🚀 진행 중인 프로젝트
-  
-| 프로젝트명 | 역할 | 기간 |
-|:---:|:---:|:---:|
-| [AI SSL DLP]([https://github.com/Creatine-mono/kisia-project]) (KISIA AI보안 개인정보반) | Tech Lead | 2025.07.21 ~ 2025.11.07 |
-| 공급망 사이버 보안 위험 평가 ai 에이전트 | 총괄 팀장 | 2025.09 ~ 2025.12.01 |
-| 딥러닝을 활용한 사진화질 개선 서비스 | 개발팀원 | 2025.09 ~ 2025.12.03 |
+## 💼 CORE PROJECTS
 
 </div>
-<br>
 
-<h3 align="center">📜 Certifications 📜</h3>
+```mermaid
+%%{init: {'theme':'dark'}}%%
+timeline
+    title 2025 Project Timeline
+    section Q3
+        KISIA AI보안 개발 : Tech Lead : KLUE RoBERTa : EXAONE
+        정보보호 해커톤 : 우수상 수상
+    section Q4
+        공급망 보안 AI : 총괄 팀장 : LangChain : AI Agent
+        딥러닝 화질개선 : 개발팀원 : Computer Vision
+```
+
+<br/>
+
 <div align="center">
-  
-| 자격증명 | 등급/레벨 | 발급기관 |
-|:---:|:---:|:---:|
-| AICE | Associate | KT |
-| AICE | Basic | KT |
-|정보보호능력검정 | 2급 | TOLIS |
-| AIDE 자격검정시험 | 2급 | 한국인공지능자격센터 |
-| Azure AI-900 | - | Microsoft |
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+
+### 🔐 AI SSL DLP System
+**한국어 개인정보 탐지 시스템**
+
+<img src="https://img.shields.io/badge/KLUE_RoBERTa-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+" />
+<img src="https://img.shields.io/badge/EXAONE-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/F1_Score-93.30%25-gold?style=for-the-badge" />
+
+**3-Stage Pipeline** → Preprocessing → Entity Recognition → Validation
 
 </div>
-<br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white" />&nbsp
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=D97757" />&nbsp
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />&nbsp
-</div>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-</div>
-<br>
+<br/>
 
-<h3 align="center">📊 GitHub Stats 📊</h3>
+---
+
+<br/>
+
+<!-- 기술 스택 -->
 <div align="center">
 
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Creatine-mono&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+## ⚡ TECH ARSENAL
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,react,js,nodejs,git,github,vscode,obsidian&theme=dark&perline=10" />
 
-<!-- GitHub Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=Creatine-mono&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creatine-mono&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<br/>
+<br/>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logoColor=000" />
+<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Claude_AI-181818?style=for-the-badge&logo=anthropic&logoColor=D97757" />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=art3456)](https://solved.ac/art3456/)
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="mailto:psh243360@gmail.com">
-    <img src="https://img.shields.io/badge/psh243360@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-  <a href="https://huggingface.co/psh3333">
-    <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=000"/>&nbsp
-  </a>
 </div>
 
-<!-- Footer Wave -->
+<br/>
+
+---
+
+<br/>
+
+<!-- GitHub Stats -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+
+## 📊 GITHUB METRICS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Creatine-mono&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Creatine-mono&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creatine-mono&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=art3456" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- 활동 내역 -->
+<div align="center">
+
+## 🎓 EDUCATION & ACTIVITIES
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🏛️ Korea University
+**AI Cybersecurity Major**
+- Transfer Student (2024.03 ~)
+- GPA Focus: Deep Learning, RL
+- K-Shield Junior Program
+
+</td>
+<td width="50%">
+
+### 🔬 Research Interests
+- **Personal Information Protection**
+- **NLP Security & Detection**
+- **AI Agent Development**
+- **Supply Chain Security**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📜 Certifications
+
+<img src="https://img.shields.io/badge/AICE_Associate-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AIDE_2급-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/정보보호_2급-2196F3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Azure_AI--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- 연락처 -->
+<div align="center">
+
+## 📬 CONNECT
+
+[![Gmail](https://img.shields.io/badge/psh243360@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psh243360@gmail.com)
+[![HuggingFace](https://img.shields.io/badge/🤗_psh3333-FFD21E?style=for-the-badge&logoColor=000)](https://huggingface.co/psh3333)
+[![GitHub](https://img.shields.io/badge/Creatine--mono-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Creatine-mono)
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Creatine-mono&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 💡 Philosophy
+
+**"Building secure AI systems through innovative technology"**
+
+*Specializing in Korean NLP Security & AI-powered threat detection*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer" />
+
 </div>
