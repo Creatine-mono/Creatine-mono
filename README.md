@@ -13,8 +13,8 @@
 <br/>
 <br/>
 
-[![Korean](https://img.shields.io/badge/한국어-4CAF50?style=for-the-badge)](./README.md)
-[![English](https://img.shields.io/badge/English-FF6B6B?style=for-the-badge)](./README_EN.md)
+[![Korean](https://img.shields.io/badge/한국어-4CAF50?style=for-the-badge)](./README_KO.md)
+[![English](https://img.shields.io/badge/English-FF6B6B?style=for-the-badge)](./README.md)
 
 <br/>
 
