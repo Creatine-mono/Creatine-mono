@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- 헤더 -->
+<!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SUNGHO%20PARK&fontSize=70&fontColor=fff&animation=fadeIn" />
 
 <br/>
 
-<!-- 타이핑 효과 -->
+<!-- Typing Effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=AI+Security+Developer;" alt="Typing SVG" />
 </a>
@@ -26,9 +26,9 @@
 
 ## 👨‍💻 About Me
 
-고려대학교 AI 사이버보안학과 재학중입니다.  
+AI Cybersecurity major at Korea University.
 
-**관심 분야**: NLP Security, LLM Applications, AI Agents
+**Interests**: NLP Security, LLM Applications, AI Agents
 
 ---
 
@@ -39,7 +39,7 @@
 <td width="50%">
 
 ### 🔐 AI SSL DLP System
-한국어 개인정보 탐지 및 보호 시스템
+Korean Personal Information Detection & Protection System
 
 **Tech Stack**  
 ![KLUE](https://img.shields.io/badge/KLUE_RoBERTa-FF6B6B?style=flat-square)
@@ -50,7 +50,7 @@
 <td width="50%">
 
 ### 🛡️ Supply Chain Risk AI Agent
-공급망 사이버 보안 위험 평가
+Cybersecurity Risk Assessment System
 
 **Tech Stack**  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
@@ -95,8 +95,8 @@
 
 | Year | Award | Organization |
 |:---:|:---|:---:|
-| 🥇 **2025.12** | KISIA AI보안 개인정보반 최우수상 | 과기부 |
-| 🥈 **2025.08** | 제3회 정보보호 개발자 해커톤 우수상 | 과기부 |
+| 🥇 **2025.12** | KISIA AI Security Excellence Award | MSIT |
+| 🥈 **2025.08** | 3rd InfoSec Developer Hackathon Merit Award | MSIT |
 
 <br/>
 
@@ -104,8 +104,8 @@
 
 ![AICE Associate](https://img.shields.io/badge/AICE_Associate-FF6B6B?style=for-the-badge&logo=kt&logoColor=white)
 ![AICE Basic](https://img.shields.io/badge/AICE_Basic-FF8C8C?style=for-the-badge&logo=kt&logoColor=white)
-![AIDE](https://img.shields.io/badge/AIDE_2급-4CAF50?style=for-the-badge)
-![InfoSec](https://img.shields.io/badge/정보보호_2급-2196F3?style=for-the-badge)
+![AIDE](https://img.shields.io/badge/AIDE_Level_2-4CAF50?style=for-the-badge)
+![InfoSec](https://img.shields.io/badge/InfoSec_Level_2-2196F3?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure_AI--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </div>
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-<!-- GitHub Stats - 여러 대체 인스턴스 사용 -->
+<!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Creatine-mono&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creatine-mono&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
@@ -161,4 +161,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
-</div>>
+</div>
