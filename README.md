@@ -41,10 +41,17 @@ AI Cybersecurity major at Korea University.
 ### 🔐 AI SSL DLP System
 Korean Personal Information Detection & Protection System
 
-**Tech Stack**  
-![KLUE](https://img.shields.io/badge/KLUE_RoBERTa-FF6B6B?style=flat-square)
+**Models**  
+![KLUE](https://img.shields.io/badge/KLUE_RoBERTa-FF6B6B?style=flat-square&logo=huggingface&logoColor=white)
 ![EXAONE](https://img.shields.io/badge/EXAONE-4CAF50?style=flat-square)
+
+**Result**  
 ![F1](https://img.shields.io/badge/F1_Score-93.30%25-gold?style=flat-square)
+
+**Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
 
 </td>
 <td width="50%">
@@ -52,9 +59,12 @@ Korean Personal Information Detection & Protection System
 ### 🛡️ Supply Chain Risk AI Agent
 Cybersecurity Risk Assessment System
 
+**Framework**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+
 **Tech Stack**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 </td>
 </tr>
@@ -153,6 +163,15 @@ Cybersecurity Risk Assessment System
 
 <div align="center">
 
+### 💡 Development Philosophy
+
+*"Building secure AI systems through Python-powered innovation"*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
 ### 💡 Development Philosophy
 
 *"Building secure AI systems through Python-powered innovation"*
