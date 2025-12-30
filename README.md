@@ -172,12 +172,3 @@ Cybersecurity Risk Assessment System
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
-### 💡 Development Philosophy
-
-*"Building secure AI systems through Python-powered innovation"*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-
-</div>
