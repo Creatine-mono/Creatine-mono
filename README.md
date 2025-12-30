@@ -27,7 +27,6 @@
 ## 👨‍💻 About Me
 
 고려대학교 AI 사이버보안학과 재학중입니다.  
-한국어 개인정보 탐지 시스템을 개발하며 **93.30% F1 Score**를 달성했습니다.
 
 **관심 분야**: NLP Security, LLM Applications, AI Agents
 
