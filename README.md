@@ -27,6 +27,7 @@
 ## 👨‍💻 About Me
 
 고려대학교 AI 사이버보안학과 재학중입니다.  
+한국어 개인정보 탐지 시스템을 개발하며 **93.30% F1 Score**를 달성했습니다.
 
 **관심 분야**: NLP Security, LLM Applications, AI Agents
 
@@ -87,14 +88,26 @@
 
 ---
 
-## 🏆 Awards & Achievements
+## 🏆 Awards & Certifications
 
 <div align="center">
+
+### 🏅 Awards
 
 | Year | Award | Organization |
 |:---:|:---|:---:|
 | 🥇 **2025.12** | KISIA AI보안 개인정보반 최우수상 | 과기부 |
 | 🥈 **2025.08** | 제3회 정보보호 개발자 해커톤 우수상 | 과기부 |
+
+<br/>
+
+### 📜 Certifications
+
+![AICE Associate](https://img.shields.io/badge/AICE_Associate-FF6B6B?style=for-the-badge&logo=kt&logoColor=white)
+![AICE Basic](https://img.shields.io/badge/AICE_Basic-FF8C8C?style=for-the-badge&logo=kt&logoColor=white)
+![AIDE](https://img.shields.io/badge/AIDE_2급-4CAF50?style=for-the-badge)
+![InfoSec](https://img.shields.io/badge/정보보호_2급-2196F3?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure_AI--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </div>
 
@@ -104,13 +117,24 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creatine-mono&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9)
+<!-- GitHub Stats - 여러 대체 인스턴스 사용 -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Creatine-mono&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Creatine-mono&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creatine-mono&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Creatine-mono&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=F093FB&currStreakLabel=667EEA)
+<br/>
+<br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=art3456)](https://solved.ac/art3456)
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Creatine-mono&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=F093FB&currStreakLabel=667EEA" alt="GitHub Streak"/>
+
+<br/>
+<br/>
+
+<!-- Solved.ac Profile -->
+<a href="https://solved.ac/art3456">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=art3456" alt="Solved.ac Profile"/>
+</a>
 
 </div>
 
@@ -138,13 +162,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
-</div>
----
-
-<div align="center">
-
-*"Building secure AI systems through Python-powered innovation"*
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCreatine-mono&count_bg=%23667EEA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true)
-
-</div>
+</div>>
