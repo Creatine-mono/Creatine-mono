@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- 헤더 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SUNGHO%20PARK&fontSize=70&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=박%20성호&fontSize=70&fontColor=fff&animation=fadeIn" />
 
 <br/>
 
 <!-- 타이핑 효과 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=AI+Security+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=AI+보안+개발자;" alt="Typing SVG" />
 </a>
 
 <br/>
